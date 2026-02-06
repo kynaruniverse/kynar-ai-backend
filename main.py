@@ -3,7 +3,7 @@ import openai
 import math
 
 # Replace with your Gemini key (or use environment variable)
-openai.api_key = "YOUR_GEMINI_KEY"
+openai.api_key = "AIzaSyAeurxKSrSK2SAxtTYE28RKW-2NJBylrow"
 
 # Load repo_data.json
 def load_repo():
